@@ -1828,7 +1828,7 @@
     eslint-plugin-react "^7.21.5"
     eslint-plugin-react-hooks "^4.0.0"
 
-"@pancakeswap-libs/uikit@../goose-uikit":
+"@pancakeswap-libs/uikit@oilrigfinance/oil3UiKit":
   version "0.10.2"
   dependencies:
     "@types/lodash" "^4.14.162"
